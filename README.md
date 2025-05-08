@@ -98,3 +98,8 @@ Feel free to connect with me:
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 
+## 🖇️ Link for The Project
+
+ <a href="https://www.linkedin.com/posts/muaddh-alsway_frontenddevelopment-responsivedesign-javascript-activity-7325558986169077760-w5jL?utm_source=share&utm_medium=member_desktop&rcm=ACoAADejAqQBo4IKkDbZQ2uIFfqpjS0OHOJntq8" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
